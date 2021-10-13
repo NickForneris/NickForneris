@@ -1,7 +1,5 @@
-![My Photo](https://assets.codepen.io/6459953/internal/avatars/users/default.png?fit=crop&format=auto&height=350&version=1632935593&width=350)
 # Hi, my name is Nick Forneris
-### I'm a Project Coordinator at ExxonMobil and am actively growing skills 
-### in React, JavaScript, HTML/CSS, and Workflow Applications
+### I'm a Project Coordinator at ExxonMobil and am actively growing <br> skills in React, JavaScript, HTML/CSS, and Workflow Applications<br>
 **[Linkedin](https://www.linkedin.com/in/nickforneris/)**
 **[CodePen](https://codepen.io/nickforneris)**
 **[FreeCodeCamp Certifications](https://www.freecodecamp.org/nickforneris)**
