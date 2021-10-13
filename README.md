@@ -1,4 +1,3 @@
-<br>
 ![My Photo](https://assets.codepen.io/6459953/internal/avatars/users/default.png?fit=crop&format=auto&height=350&version=1632935593&width=350)
 # Hi, my name is Nick Forneris
 ### I'm a Project Coordinator at ExxonMobil and am actively growing skills 
